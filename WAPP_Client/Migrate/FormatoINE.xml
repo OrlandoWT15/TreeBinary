@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <XMLGuardar>
+    <Curp>qwerqwer</Curp>
+    <Nombre>qwer</Nombre>
+    <Domicilio>qwer</Domicilio>
+    <Estado>qwer</Estado>
+    <Municipio>rqwer</Municipio>
+    <Seccion>qwer</Seccion>
+    <Vigencia>28/06/2022</Vigencia>
+  </XMLGuardar>
+  <XMLGuardar>
+    <Curp>asfdasdf</Curp>
+    <Nombre>sadf</Nombre>
+    <Domicilio>asdf</Domicilio>
+    <Estado>asdf</Estado>
+    <Municipio>asdf</Municipio>
+    <Seccion>safd</Seccion>
+    <Vigencia>30/06/2022</Vigencia>
+  </XMLGuardar>
+  <XMLGuardar>
+    <Curp>M</Curp>
+    <Nombre>ORLANDO IVAN BASULTO BENITEZ</Nombre>
+    <Domicilio>ty</Domicilio>
+    <Estado>ty</Estado>
+    <Municipio>003</Municipio>
+    <Seccion>1</Seccion>
+    <Vigencia>26/06/2022</Vigencia>
+  </XMLGuardar>
+  <XMLGuardar>
+    <Curp>BABO0007HPLSNRA0</Curp>
+    <Nombre>ORLANDO IVAN BASULTO BENITEZ</Nombre>
+    <Domicilio>BULEVARD MARGARITAS NUMERO 58</Domicilio>
+    <Estado>23</Estado>
+    <Municipio>003</Municipio>
+    <Seccion>23</Seccion>
+    <Vigencia>23/06/2022</Vigencia>
+  </XMLGuardar>
+</NewDataSet>
